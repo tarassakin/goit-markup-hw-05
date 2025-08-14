@@ -576,7 +576,6 @@ a {
   gap: 24px;
 }
 .footer-third-div-form-label {
-  
 }
 .footer-input-feeld {
   width: 264px;
@@ -725,7 +724,7 @@ outline-offset: 2px; */
 }
 
 .modal-input-feeld:focus + .modal-form-feeld-icon {
-  fill: fill: #4D5AE5;
+  fill: #4d5ae5;
 }
 
 .modal-form-feeld-icon {
